@@ -17,6 +17,7 @@ public class Maths {
 		// TODO Auto-generated method stub
 		Maths obj = new Maths();
 		obj.add(5, 6);
+		obj.divide(40,10);
 	}
 
 }
